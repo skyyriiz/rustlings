@@ -1,0 +1,2 @@
+la fonction some_func prend un argument item qui doit etre 
+d'un type qui implémente a la fois le trait SomeTrait et le trait OtherTrait

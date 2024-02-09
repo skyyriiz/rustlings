@@ -1,0 +1,4 @@
+dans le 1er todo, la fonction convertit l'erreur ParseIntError 
+en une variante de l'enum ParseInt
+
+second todo, la ligne remplace la panique par un traitement d'erreur

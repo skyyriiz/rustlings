@@ -1,0 +1,7 @@
+map.iter().fold(0, |acc, (_, v)| { if v == &value {acc + 1} else {acc}})
+on va utiliser fold pour passer les valeurs du hashmap et compter combien de fois &value apparait
+et on incremente acc si v est égale a &value
+
+collection.iter().fold(0, |acc, x| acc + count_iterator(x, value))
+on va utiliser fold pour passer sur un hashmap et compter combien de fois la value apparait
+en utilisant count_iterator, et ajoute son resultat a l'accumulateur

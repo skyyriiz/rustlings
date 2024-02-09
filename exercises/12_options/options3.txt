@@ -1,0 +1,2 @@
+en utilisant &y dans le match, on effectue une référence, évitant ainsi la consommation de la valeur y
+cela permet à "y" d'être utilisée après la correspondance

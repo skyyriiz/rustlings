@@ -1,0 +1,4 @@
+on met rect.width car on souhaite verifier sur la longueur du rectangle
+fait bien 10 comme dans la comparaison, pareil avec la largeur
+on rajoute des #[should_panic] car on sait que ca va panic car on rentre 
+valeurs negatives du coup on met ca pour pourvoir continuer le programme

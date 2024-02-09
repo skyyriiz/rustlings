@@ -1,0 +1,4 @@
+On va crée deux structure générique qui va pouvoir prendre tout types de données
+grâce au parametre T
+
+

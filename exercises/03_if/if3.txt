@@ -1,0 +1,4 @@
+Dans cet excercice, je remarque que que dans le "else if animal == "gopher" {"
+ca utilise un nombre floattant alors que ce sont des entiers qu'il faut mettre
+et dans le else en dessous on voit une string alors que ca doit etre un integer du coup
+je met 0 qui pour moi signifier rien/nul.

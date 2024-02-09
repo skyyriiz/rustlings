@@ -1,0 +1,4 @@
+la déclaration struct Book<'a> signifie que la structure Book peut 
+contenir des références (&str) dont la durée de vie est liée 
+a une référence extérieure
+ce qui empeche les possibles problemes de référence invalides

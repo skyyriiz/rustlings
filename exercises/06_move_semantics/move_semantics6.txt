@@ -1,0 +1,4 @@
+Il faut changer les ownership l'un avec l'autre du coup on va juste intervertir les réferences 
+Dans la fonction main on va mettre la reference sur la variable data qui est dans get_char
+Dans la fonction get_char on va mettre la reference sur le type et on va retirer les reference dans la derniere fonction
+

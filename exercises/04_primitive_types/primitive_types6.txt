@@ -1,0 +1,3 @@
+Dans cet exercice il faut completer la variable second.
+Du coup on va juste rajouter numbers.2 pour recuperer la valeur 2 (qui a la place 1 du tableau)
+Et la comparaison va fonctionner car on va recuperer la 2eme valeur du tableau (position 1) 

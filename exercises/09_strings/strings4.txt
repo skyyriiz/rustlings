@@ -1,0 +1,2 @@
+Le choix de la fonction va se faire selon si on a besoin de posseder et modifier les strings (modification memoire) (c'est le cas du String)
+ou si on a juste besoin de faire reference a des portions de strings

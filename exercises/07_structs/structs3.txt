@@ -1,0 +1,6 @@
+Dans cet exercice, il faut completer deux fonctions
+Plus bas dans les fonctions de create package, on remarque que selon si cest la meme ville ou deux ville differentes (envoi et reception) les methodes sont differentes
+Pour ca du coup on va faire un boolean pour savoir si le paquet est envoyé dans la meme ville ou pas (true si ca deux villes differentes et false si cest la meme ville)
+Et pour ce boolean on va faire un if qui verifie si l'envoyeur et receptionneur sont pas dans la meme ville du coup ca retourne true sinon false
+Pour le calcul des frais de transport cest une multiplication entre le poids en gramme du colis et la variable qui contient le multiplicateur
+

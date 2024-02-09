@@ -1,0 +1,2 @@
+Dans la 1ere fonction on va directement parcourir le vecteur et changer chaque valeur qui sont dedans eton multiplie par deux 
+Dans la 2eme fonction on change toutes les valeurs du tableau du coup on refait la meme chose qu'avant

@@ -1,0 +1,3 @@
+La fonction build_scores_tabl utilise une HashMap pour créer une table des scores
+à partir des résultats des matchs. Elle compte les buts marqués et concédés
+par chaque équipe et stocke ces information
